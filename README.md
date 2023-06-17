@@ -3,7 +3,7 @@
 * 請先到以下網址 : our homepage
   * https://www.isaac-space.com/
 
-<p float="left"><img src="https://github.com/clifflin-isaacspace/Guideline/tree/main/pics/1.png" width="896" title="Feature_map" /></p>
+<p float="left"><img src="https://github.com/clifflin-isaacspace/Guideline/blob/main/pics/1.png" width="896" title="Feature_map" /></p>
 
 * 點擊sign up 開始進行註冊
 <p float="left"><img src="https://github.com/clifflin-isaacspace/Guideline/tree/main/pics/2.png" width="896" title="Feature_map" /></p>
