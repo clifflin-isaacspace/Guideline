@@ -1,5 +1,4 @@
-[TOC]
-# **申請帳號**
+[申請帳號]# **申請帳號**
 
 * 請先到以下網址 : our homepage
   * https://www.isaac-space.com/
