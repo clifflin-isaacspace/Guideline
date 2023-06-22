@@ -1,5 +1,5 @@
-*[申請帳號](#申請帳號)
-*[APP下載＆＆登入](＃APP下載＆登入)
+-[申請帳號](#申請帳號)
+-[APP下載＆登入](#APP下載&登入)
 
 # **申請帳號**
 
@@ -24,7 +24,7 @@
 <p float="left"><img src="https://github.com/clifflin-isaacspace/Guideline/blob/main/pics/6.png" width="896" title="Feature_map" /></p>
 
 
-# APP 下載&登入
+# APP下載&登入
 
 * 點選右上 Download 按鈕
 <p float="left"><img src="https://github.com/clifflin-isaacspace/Guideline/blob/main/pics/7.png" width="896" title="Feature_map" /></p>
