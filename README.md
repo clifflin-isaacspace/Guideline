@@ -2,6 +2,10 @@
 
 -[程式下載及登入](#程式下載及登入)
 
+-[網頁登入](#網頁登入)
+
+-[頁面介紹](#頁面介紹)
+
 # **申請帳號**
 
 * 請先到以下網址 : our homepage
@@ -43,7 +47,7 @@
 <p float="left"><img src="https://github.com/clifflin-isaacspace/Guideline/blob/main/pics/11.png" width="896" title="Feature_map" /></p>
 
 
-# 登入 – 網頁
+# 網頁登入
 
 * 請先到 isaac space 首頁，點擊Login
 <p float="left"><img src="https://github.com/clifflin-isaacspace/Guideline/blob/main/pics/12.png" width="896" title="Feature_map" /></p>
