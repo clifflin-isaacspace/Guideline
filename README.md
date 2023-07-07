@@ -40,10 +40,10 @@
 <p float="left"><img src="https://github.com/clifflin-isaacspace/Guideline/blob/main/pics/8.bmp" width="896" title="Feature_map" /></p>
 
 * 下載後，點擊安裝
-<p float="left"><img src="https://github.com/clifflin-isaacspace/Guideline/blob/main/pics/9.bmp" width="256" title="Feature_map" /></p>
+<p float="left"><img src="https://github.com/clifflin-isaacspace/Guideline/blob/main/pics/9.bmp" width="128" title="Feature_map" /></p>
 
 *  順著安裝步驟後，即完成安裝，雙擊開啟程式
-<p float="left"><img src="https://github.com/clifflin-isaacspace/Guideline/blob/main/pics/10.bmp" width="256" title="Feature_map" /></p>
+<p float="left"><img src="https://github.com/clifflin-isaacspace/Guideline/blob/main/pics/10.bmp" width="128" title="Feature_map" /></p>
 
 *  進入APP後，登入帳密即前面註冊的帳密
 <p float="left"><img src="https://github.com/clifflin-isaacspace/Guideline/blob/main/pics/11.bmp" width="896" title="Feature_map" /></p>
