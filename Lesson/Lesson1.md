@@ -22,4 +22,15 @@ Key features of Python include:
 
 Python is widely used in various domains, including web development, data analysis, artificial intelligence, scientific computing, automation, scripting, and more. Its popularity can be attributed to its large community, extensive libraries, and widespread adoption in various industries.
 
-# **申請帳號**
+# **Basic Motion 001**
+
+* Importing packages
+<p float="left"><img src="https://github.com/clifflin-isaacspace/Guideline/blob/main/Lesson/1-1-1.bmp" width="320" title="1-1-1" /></p>
+
+1. `time` : Control the code execution time
+2. `Robot` : Class for controlling JetBot
+
+* Initializing a class instance of `Robot`
+<p float="left"><img src="https://github.com/clifflin-isaacspace/Guideline/blob/main/Lesson/1-1-2.bmp" width="160" title="1-1-1" /></p>
+
+
