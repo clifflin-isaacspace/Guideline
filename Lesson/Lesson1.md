@@ -1,6 +1,6 @@
--[Python](#What is Python)
+-[What Is Python](#WhatIsPython)
 
--[BasicMotion001](#BasicMotion001)
+-[Basic Motion 001](#BasicMotion001)
 
 
 # **WhatIsPython**
