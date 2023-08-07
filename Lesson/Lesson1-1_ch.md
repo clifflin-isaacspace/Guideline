@@ -1,0 +1,54 @@
+-[什麼是Python](#什麼是Python)
+
+-[基本運動1](#基本運動1)
+
+
+# **什麼是Python**
+
+Python 是一種高階、直譯式的通用程式設計語言，由Guido van Rossum 創造，於1991年首次發佈。Python 以其簡潔、易讀和靈活性聞名，成為世界上最受歡迎的程式設計語言之一。Python 的設計理念強調程式碼的可讀性，使程式設計師能夠清晰、簡潔地表達自己的想法。
+
+Python 的主要特點包括：
+
+1. 易學的語法：Python 使用縮排來定義程式碼區塊，使得程式碼更易讀，迫使開發者撰寫乾淨、有組織的程式碼。
+
+2. 直譯式語言：Python 程式碼由直譯器逐行執行，這意味著在執行之前不需要顯式編譯程式碼。
+
+3. 跨平台：Python 可在多種作業系統上運行，包括Windows、macOS、Linux等。
+
+4. 高階資料結構：Python 提供了內建的資料結構，如列表、字典和元組，方便處理複雜的資料。
+
+5. 大型標準庫：Python 附帶了豐富的模組和函式庫，簡化了常見的程式設計任務，涵蓋了從字串和檔案處理到網頁開發和網路通訊的各個方面。
+
+6. 支援物件導向程式設計：Python 支援封裝、繼承和多型等物件導向程式設計原則。
+
+7. 動態型別：Python 使用動態型別，意味著不需要顯式宣告變數的型別，其型別在執行時決定。
+
+8. 可擴展性：Python 可輕鬆地與 C/C++ 程式碼結合，允許開發者優化程式中效能關鍵的部分。
+
+Python 被廣泛應用於各個領域，包括網頁開發、資料分析、人工智慧、科學計算、自動化、腳本撰寫等。其受歡迎程度歸功於其龐大的社群、豐富的函式庫以及在各個行業的廣泛應用。
+
+# **基本運動1**
+
+* 匯入套件
+<p float="left"><img src="https://github.com/clifflin-isaacspace/Guideline/blob/main/Lesson/1-1-1.bmp" width="320" title="1-1-1" /></p>
+
+1. `time` : 控制程式執行時間
+2. `Robot` : 用於控制JetBot的套件
+
+* 初始化一個 Robot 類別的實例。
+<p float="left"><img src="https://github.com/clifflin-isaacspace/Guideline/blob/main/Lesson/1-1-2.bmp" width="160" title="1-1-2" /></p>
+
+* 現在我們已經建立了我們命名為 "robot" 的 Robot 實例，我們可以使用這個實例來控制機器人。要使機器人以其最大速度的 30％ 逆時針旋轉，我們可以呼叫以下方法，機器人就可以逆時針旋轉。
+
+<p float="left"><img src="https://github.com/clifflin-isaacspace/Guideline/blob/main/Lesson/1-1-3.bmp" width="180" title="1-1-3" /></p>
+
+* 為了繼續執行前面的命令，我們需要使用這個套件中定義的 sleep 函式。使用 sleep 會導致程式碼執行在執行下一個命令之前阻塞指定的秒數。下面的方法可以將程式封鎖半秒鐘。
+
+<p float="left"><img src="https://github.com/clifflin-isaacspace/Guideline/blob/main/Lesson/1-1-4.bmp" width="180" title="1-1-4" /></p>
+
+* 要停止機器人，您可以呼叫 stop 方法。
+  
+<p float="left"><img src="https://github.com/clifflin-isaacspace/Guideline/blob/main/Lesson/1-1-5.bmp" width="180" title="1-1-5" /></p>
+
+* Robot 套件中定義的基本方法包括 left、right、forward 和 backward。試著規劃您自己機器人的軌跡。 
+
