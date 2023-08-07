@@ -36,5 +36,15 @@ Python is widely used in various domains, including web development, data analys
 * Now that we've created our `Robot` instance we named "robot", we can use this instance to control the robot. To make the robot spin 
 counterclockwise at 30% of it's max speed, we can call the following, and the robot can spin counterclockwise.
 
-<p float="left"><img src="https://github.com/clifflin-isaacspace/Guideline/blob/main/Lesson/1-1-3.bmp" width="200" title="1-1-3" /></p>
+<p float="left"><img src="https://github.com/clifflin-isaacspace/Guideline/blob/main/Lesson/1-1-3.bmp" width="180" title="1-1-3" /></p>
+
+* To keep running the previous command, we need to use `sleep` function defined in this package. Using `sleep` causes the code execution to block for the specified number of seconds before running the next command. The following method can block the program for half a second.
+
+<p float="left"><img src="https://github.com/clifflin-isaacspace/Guideline/blob/main/Lesson/1-1-4.bmp" width="180" title="1-1-4" /></p>
+
+* To stop the robot, you can call the `stop` method.
+  
+<p float="left"><img src="https://github.com/clifflin-isaacspace/Guideline/blob/main/Lesson/1-1-5.bmp" width="180" title="1-1-5" /></p>
+
+* The basic methods defined in `Robot` class are `left`, `right`, `forward`, and `backward`. Try to plan the trajectory of your own robot.
 
