@@ -1,4 +1,9 @@
-# **What is Python**
+-[Python](#What is Python)
+
+-[BasicMotion001](#BasicMotion001)
+
+
+# **WhatIsPython**
 
 Python is a high-level, interpreted, and general-purpose programming language that was created by Guido van Rossum and first released in 1991. It is known for its simplicity, readability, and versatility, making it one of the most popular programming languages in the world. Python's design philosophy emphasizes code readability, making it easier for programmers to express their ideas clearly and concisely.
 
@@ -22,7 +27,7 @@ Key features of Python include:
 
 Python is widely used in various domains, including web development, data analysis, artificial intelligence, scientific computing, automation, scripting, and more. Its popularity can be attributed to its large community, extensive libraries, and widespread adoption in various industries.
 
-# **Basic Motion 001**
+# **BasicMotion001**
 
 * Importing packages
 <p float="left"><img src="https://github.com/clifflin-isaacspace/Guideline/blob/main/Lesson/1-1-1.bmp" width="320" title="1-1-1" /></p>
