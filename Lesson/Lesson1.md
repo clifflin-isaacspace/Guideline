@@ -31,6 +31,10 @@ Python is widely used in various domains, including web development, data analys
 2. `Robot` : Class for controlling JetBot
 
 * Initializing a class instance of `Robot`
-<p float="left"><img src="https://github.com/clifflin-isaacspace/Guideline/blob/main/Lesson/1-1-2.bmp" width="160" title="1-1-1" /></p>
+<p float="left"><img src="https://github.com/clifflin-isaacspace/Guideline/blob/main/Lesson/1-1-2.bmp" width="160" title="1-1-2" /></p>
 
+* Now that we've created our `Robot` instance we named "robot", we can use this instance to control the robot. To make the robot spin 
+counterclockwise at 30% of it's max speed, we can call the following, and the robot can spin counterclockwise.
+
+<p float="left"><img src="https://github.com/clifflin-isaacspace/Guideline/blob/main/Lesson/1-1-3.bmp" width="200" title="1-1-3" /></p>
 
