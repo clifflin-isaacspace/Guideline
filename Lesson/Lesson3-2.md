@@ -68,6 +68,9 @@ def preprocess(camera_value):
     return x
 ```
 
+## Deploy model on Jetbot
+***					
+
 * Also, we need to initialize the robot and its camera.
                                     
 ```python
