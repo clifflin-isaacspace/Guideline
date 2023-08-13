@@ -1,4 +1,4 @@
-# **Collision Avoidance 1**
+# **Collision Avoidance - Data Collection**
 
 * If you can run through the basic motion programs, hopefully you're
 enjoying how easy it can be to make your JetBot move around! That's
