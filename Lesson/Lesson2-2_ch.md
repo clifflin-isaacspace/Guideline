@@ -16,7 +16,9 @@ from jetbot import Robot, Camera
 
 ```
 
-                                    
+## 載入已訓練的模型
+*** 
+
 * 我們假設你已經有了 `best_model.pth`。現在，你應該初始化 PyTorch 模型並從 `best_model.pth` 加載訓練好的權重。
 
                                     
@@ -35,6 +37,9 @@ device = torch.device('cpu')
 model = model.to(device).eval()
 
 ```
+
+## 建立預處理函數
+***	
 
 * 我們訓練模型的格式與攝影機的格式不完全相符。為了解決這個問題，我們需要進行一些預處理。這涉及到以下步驟：
 
@@ -63,6 +68,9 @@ def preprocess(camera_value):
     return x
 
 ```
+
+## Jetbot與模型部署
+***
 
 * 同時，我們需要初始化機器人及其攝影機，並將基本速度設定為 20%。
                                     
