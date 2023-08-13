@@ -18,7 +18,9 @@ from jetbot import Robot, Camera
 
 ```
 
-                                    
+## Load the trained model
+***
+
 * We'll assume that you've already had `best_model.pth`. Now, you should
 initialize the PyTorch model and load the trained wights from 
 `best_model.pth`.
@@ -39,6 +41,8 @@ device = torch.device('cpu')
 model = model.to(device).eval()
 
 ```
+## Create the preprocessing function
+***
 
 * The format that we trained our model doesn't exactly match the format 
 of the camera. To do that, we need to do some preprocessing. This involves
@@ -71,6 +75,9 @@ def preprocess(camera_value):
     return x
 
 ```
+
+## Deploy model on Jetbot
+***	
 
 * Also, we need to initialize the robot and its camera, and define the 
 base speed at 20%.
