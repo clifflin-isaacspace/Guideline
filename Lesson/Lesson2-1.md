@@ -31,9 +31,13 @@ But, we can prevent the robot from entering these scenarios itself.
 "safety bubble" is violated, and label these scenarios `blocked`.
 We save a snapshot of what the robot sees along with this label.
 
+<p float="left"><img src="https://github.com/clifflin-isaacspace/Guideline/blob/main/Lesson/02.bmp" width="480" title="Feature_map" /></p>
+
 2. Second, we'll manully place the robot in scenarios where it's safe
 to move forward a bit, and label these scenarios `free`. Likewise, 
 we save a snapshot along with this label.
+
+<p float="left"><img src="https://github.com/clifflin-isaacspace/Guideline/blob/main/Lesson/01.bmp" width="480" title="Feature_map" /></p>
 
 * That's all that we'll do in this program: data collection. Once we
 have lots of images and labels, we'll use this data to train a neural
