@@ -30,25 +30,38 @@ Python 被廣泛應用於各個領域，包括網頁開發、資料分析、人�
 # **基本運動1**
 
 * 匯入套件
-<p float="left"><img src="https://github.com/clifflin-isaacspace/Guideline/blob/main/Lesson/1-1-1.bmp" width="320" title="1-1-1" /></p>
+  
+```python
+import time
+from jetbot import Robot
+```
 
 1. `time` : 控制程式執行時間
 2. `Robot` : 用於控制JetBot的套件
 
 * 初始化一個 Robot 類別的實例。
-<p float="left"><img src="https://github.com/clifflin-isaacspace/Guideline/blob/main/Lesson/1-1-2.bmp" width="160" title="1-1-2" /></p>
+  
+```python
+robot = Robot()
+```
 
 * 現在我們已經建立了我們命名為 "robot" 的 Robot 實例，我們可以使用這個實例來控制機器人。要使機器人以其最大速度的 30％ 逆時針旋轉，我們可以呼叫以下方法，機器人就可以逆時針旋轉。
 
-<p float="left"><img src="https://github.com/clifflin-isaacspace/Guideline/blob/main/Lesson/1-1-3.bmp" width="180" title="1-1-3" /></p>
+```python
+robot.left(speed=0.3)
+```
 
 * 為了繼續執行前面的命令，我們需要使用這個套件中定義的 sleep 函式。使用 sleep 會導致程式碼執行在執行下一個命令之前阻塞指定的秒數。下面的方法可以將程式封鎖半秒鐘。
 
-<p float="left"><img src="https://github.com/clifflin-isaacspace/Guideline/blob/main/Lesson/1-1-4.bmp" width="180" title="1-1-4" /></p>
+```python
+time.sleep(0.5)
+```
 
 * 要停止機器人，您可以呼叫 stop 方法。
   
-<p float="left"><img src="https://github.com/clifflin-isaacspace/Guideline/blob/main/Lesson/1-1-5.bmp" width="180" title="1-1-5" /></p>
+```
+robot.stop()
+```
 
 * Robot 套件中定義的基本方法包括 left、right、forward 和 backward。試著規劃您自己機器人的軌跡。 
 
