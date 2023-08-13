@@ -1,4 +1,4 @@
-# **Collision Avoidance 2**
+# **Collision Avoidance - Deployment**
 
 * In this program, we'll use the model we trained to detect whether the
 robot is `free` or `blocked` to enable a collicion avoidance behavior 
