@@ -6,7 +6,7 @@
 import keyboard
 ```
 
-* Importing time package
+* Importing `time` package
   
 ```python
 import time
