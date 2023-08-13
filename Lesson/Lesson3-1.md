@@ -1,4 +1,4 @@
-# **Road Following 3**
+# **Road Following - Data Collection**
 
 * If you've run through the collision avoidance sample, you should
 be familiar following three steps:
