@@ -1,4 +1,4 @@
-# **Collision Avoidance - Deployment**
+# **Collision Avoidance - Train Model**
 
 * In this program, we'll train our image classifier to detect two 
 classes `free` and `blocked`, which we'll use for avoiding collisions.
