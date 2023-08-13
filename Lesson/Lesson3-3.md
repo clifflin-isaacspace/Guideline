@@ -1,4 +1,4 @@
-# **Road Following 3**
+# **Road Following - Train Model**
 
 * In this script, we'll train a neural network to take an input
 image, and output a set of x, y values corresponding to a target.
