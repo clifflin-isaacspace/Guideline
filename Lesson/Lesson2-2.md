@@ -135,8 +135,8 @@ while True:
 ```
 
 <p float="left">
-<img src="https://github.com/clifflin-isaacspace/Guideline/blob/main/Lesson/03.bmp" width="450" title="Feature_map" />
-<img src="https://github.com/clifflin-isaacspace/Guideline/blob/main/Lesson/04.bmp" width="450" title="Feature_map" />
+<img src="https://github.com/clifflin-isaacspace/Guideline/blob/main/Lesson/03.bmp" width="390" title="Feature_map" />
+<img src="https://github.com/clifflin-isaacspace/Guideline/blob/main/Lesson/04.bmp" width="430" title="Feature_map" />
 </p>
 
 * We can press the space (0x20) key to leave the loop.
