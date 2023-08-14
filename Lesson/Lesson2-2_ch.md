@@ -123,8 +123,8 @@ while True:
 ```
 
 <p float="left">
-<img src="https://github.com/clifflin-isaacspace/Guideline/blob/main/Lesson/03.bmp" width="450" title="Feature_map" />
-<img src="https://github.com/clifflin-isaacspace/Guideline/blob/main/Lesson/04.bmp" width="520" title="Feature_map" />
+<img src="https://github.com/clifflin-isaacspace/Guideline/blob/main/Lesson/03.bmp" width="390" title="Feature_map" />
+<img src="https://github.com/clifflin-isaacspace/Guideline/blob/main/Lesson/04.bmp" width="420" title="Feature_map" />
 </p>
 
 * 我們可以按下空格鍵（0x20）來退出迴圈。
