@@ -158,7 +158,9 @@ while True:
     cv2.waitKey(1)
 ```
 
-<p float="left"><img src="https://github.com/clifflin-isaacspace/Guideline/blob/main/Lesson/05.bmp" width="480" title="Feature_map" /></p>
+<p align="center">
+  <img alt="VS Code in action" src="https://raw.githubusercontent.com/clifflin-isaacspace/Guideline/main/Lesson/05.bmp" width=480>
+</p>
 
 * 跟 `basic_motion_003.py` 一樣，我們使用鍵盤來控制機器人。此外，我們也可以使用鍵盤對圖像進行標記並保存。我們使用 'f' 鍵來標記為 "free"，使用 'b' 鍵來標記為 "blocked"。
                                     
