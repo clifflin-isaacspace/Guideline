@@ -149,7 +149,9 @@ while True:
     key = cv2.waitKey(1)
     
 ```
-<p float="left"><img src="https://github.com/clifflin-isaacspace/Guideline/blob/main/Lesson/06.bmp" width="480" title="Feature_map" /></p>
+<p align="center">
+  <img alt="VS Code in action" src="https://raw.githubusercontent.com/clifflin-isaacspace/Guideline/main/Lesson/06.bmp" width=480>
+</p>
 
 * 我們可以按下空格（0x20）鍵來退出這個循環。
                                     
