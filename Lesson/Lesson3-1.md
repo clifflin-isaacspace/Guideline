@@ -179,7 +179,9 @@ while True:
     cv2.waitKey(1)
 ```
 
-<p float="left"><img src="https://github.com/clifflin-isaacspace/Guideline/blob/main/Lesson/05.bmp" width="480" title="Feature_map" /></p>
+<p align="center">
+  <img alt="VS Code in action" src="https://raw.githubusercontent.com/clifflin-isaacspace/Guideline/main/Lesson/05.bmp" width=480>
+</p>
 
 * Like basic_motion_003.py, we use the keyboard to control the robot. Besides, we can also use the keyboard to label the image and save it. We use key 'f' for the label of free and key 'b' for the label of blocked.
         
