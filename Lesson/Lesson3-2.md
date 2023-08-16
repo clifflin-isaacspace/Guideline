@@ -157,7 +157,7 @@ while True:
     key = cv2.waitKey(1)
     
 ```
-<p float="left"><img src="https://github.com/clifflin-isaacspace/Guideline/blob/main/Lesson/06.bmp" width="480" title="Feature_map" /></p>
+<p float="left"><img src="https://raw.githubusercontent.com/clifflin-isaacspace/Guideline/main/Lesson/06.bmp" width="480" title="Feature_map" /></p>
 
 * We can press the space (0x20) key to leave the loop.
                                     
