@@ -121,10 +121,9 @@ while True:
 
 
 ```
-
-<p float="left">
-<img src="https://github.com/clifflin-isaacspace/Guideline/blob/main/Lesson/03.bmp" width="390" title="Feature_map" />
-<img src="https://github.com/clifflin-isaacspace/Guideline/blob/main/Lesson/04.bmp" width="400" title="Feature_map" />
+<p align="left">
+  <img alt="VS Code in action" src="https://raw.githubusercontent.com/clifflin-isaacspace/Guideline/main/Lesson/03.bmp" width=390>
+  <img alt="VS Code in action" src="https://raw.githubusercontent.com/clifflin-isaacspace/Guideline/main/Lesson/04.bmp" width=440>
 </p>
 
 * 我們可以按下空格鍵（0x20）來退出迴圈。
